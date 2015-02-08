@@ -28,5 +28,5 @@ sudo ./energenie.py 0 off
 
 ## Other Resources
 
-[MiniGirlGeek's demo](https://github.com/MiniGirlGeek/energenie-demo)
-[Energenie's example script](https://energenie4u.co.uk/res/pdfs/ENER314%20UM.pdf)
+* [MiniGirlGeek's demo](https://github.com/MiniGirlGeek/energenie-demo)
+* [Energenie's example script](https://energenie4u.co.uk/res/pdfs/ENER314%20UM.pdf)
