@@ -24,8 +24,7 @@ To turn off all sockets:
 sudo ./energenie.py 0 off
 ```
 
-(currently the script only supports up to four sockets, or four socket codes, to be precise)
-
+This script supports up to four sockets - the maximum allowed by the board.
 ## Other Resources
 
 * [MiniGirlGeek's demo](https://github.com/MiniGirlGeek/energenie-demo)
